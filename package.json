@@ -1,0 +1,10 @@
+{
+  "name": "newStack",
+  "version": "1.0.0",
+  "description": "webpack + babel + jQueryでとりあえず作ってNowにデプロイするまでやるサンプル。Node初心者向けに詳細ログをREADMEも追記する",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "karino",
+  "license": "ISC"
+}
